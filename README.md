@@ -4,7 +4,6 @@
 
 ## 目录结构
 
-- `loading_animation.json` - 加载动画
 - `loading_animation_circle.json` - 圆形加载动画
 
 ## 使用方式
